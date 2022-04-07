@@ -1,3 +1,3 @@
 # Lab06
-abdulrahman khalid alomari
+Abdulrahman Khalid Alomari
 1936363
